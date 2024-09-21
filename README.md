@@ -6,7 +6,7 @@ This repository contains my portfolio of Power BI projects using real-world data
 2. Open the .pbix file as usual.
 ## Project 1: Call Centre Trends
 This project involves creating a dashboard in Power BI for Claire, showcasing all relevant Key Performance Indicators (KPIs) and metrics from the dataset.
-
+Dataset: 01 Call-Center-Dataset.xlsx
 #### KPIs include:
 * Overall customer satisfaction
 * Overall calls answered/abandoned
@@ -19,6 +19,7 @@ Telecom customers are hard to acquire, so retaining them is crucial.
 The retention department is responsible for winning back customers who terminate their contracts.
 Currently, the company reaches out only after customers have terminated their contracts, which is reactionary. It would be better to predict who is at risk of leaving.
 Previous customer analyses in Excel have not yielded actionable insights.
+Dataset: 02 Churn-Dataset.xlsx
 #### Task Objective:
 For this task, I need to define the proper KPIs and create a Power BI dashboard for the Retention Manager, reflecting these KPIs.
 The churn dashboard includes:
